@@ -1,4 +1,7 @@
 # Cpp-QuickReference
-(Level 1 - Novice added)
-(Novice to Expert)
+Novice to Expert
+
+Level 1 - Novice added 1-25
+Level 2 - Medium added 26
+
 
